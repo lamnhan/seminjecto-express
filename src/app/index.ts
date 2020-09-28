@@ -1,4 +1,4 @@
-import {LibModule} from '../public-api';
+import {Lib as LibModule} from '../lib/index';
 
 export class App {
   private libModule: LibModule;
